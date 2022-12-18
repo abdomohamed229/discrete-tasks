@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\project dr sameer2\bin\Debug\net6.0\project dr sameer2.exe
+C:\Users\hp\source\repos\project dr sameer2\bin\Debug\net6.0\project dr sameer2.deps.json
+C:\Users\hp\source\repos\project dr sameer2\bin\Debug\net6.0\project dr sameer2.runtimeconfig.json
+C:\Users\hp\source\repos\project dr sameer2\bin\Debug\net6.0\project dr sameer2.dll
+C:\Users\hp\source\repos\project dr sameer2\bin\Debug\net6.0\project dr sameer2.pdb
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\project dr sameer2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\project dr sameer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\project dr sameer2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\project dr sameer2.AssemblyInfo.cs
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\project dr sameer2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\project dr sameer2.dll
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\refint\project dr sameer2.dll
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\project dr sameer2.pdb
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\project dr sameer2.genruntimeconfig.cache
+C:\Users\hp\source\repos\project dr sameer2\obj\Debug\net6.0\ref\project dr sameer2.dll

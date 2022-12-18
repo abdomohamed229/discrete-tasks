@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\project dr samir 1\bin\Debug\net6.0\project dr samir 1.exe
+C:\Users\hp\source\repos\project dr samir 1\bin\Debug\net6.0\project dr samir 1.deps.json
+C:\Users\hp\source\repos\project dr samir 1\bin\Debug\net6.0\project dr samir 1.runtimeconfig.json
+C:\Users\hp\source\repos\project dr samir 1\bin\Debug\net6.0\project dr samir 1.dll
+C:\Users\hp\source\repos\project dr samir 1\bin\Debug\net6.0\project dr samir 1.pdb
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\project dr samir 1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\project dr samir 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\project dr samir 1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\project dr samir 1.AssemblyInfo.cs
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\project dr samir 1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\project dr samir 1.dll
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\refint\project dr samir 1.dll
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\project dr samir 1.pdb
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\project dr samir 1.genruntimeconfig.cache
+C:\Users\hp\source\repos\project dr samir 1\obj\Debug\net6.0\ref\project dr samir 1.dll
